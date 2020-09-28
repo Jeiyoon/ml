@@ -1,3 +1,9 @@
+import numpy as np
+import scipy as sp
+import seaborn as sns
+from matplotlib import pyplot as plt
+#%matplotlib inline
+
 # MAP
 alpha = beta = 2
 theta = 0.7
