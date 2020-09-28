@@ -3,7 +3,7 @@ import numpy as np
 import scipy as sp
 import seaborn as sns
 from matplotlib import pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 n = 10
 theta = 0.7
