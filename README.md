@@ -3,9 +3,9 @@
 ## credit; this repository is based on awsome works
 
 ### Materials (Il-Chul Moon, KAIST)
-Introduction to Artificial Intelligence and Machine Learning I
-Introduction to Artificial Intelligence and Machine Learning II
-Artificial Intelligence and Machine Learning (Advanced)
+1) Introduction to Artificial Intelligence and Machine Learning I
+2) Introduction to Artificial Intelligence and Machine Learning II
+3) Artificial Intelligence and Machine Learning (Advanced)
 
 https://kooc.kaist.ac.kr/
 
