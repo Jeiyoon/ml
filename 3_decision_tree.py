@@ -9,6 +9,10 @@ import matplotlib.pyplot as plt
 
 from sklearn.tree import DecisionTreeClassifier
 
+from pydotplus import graph_from_dot_data
+from sklearn.tree import export_graphviz
+
+
 def plot_decision_regions(X, y, classifier, test_idx=None, resolution=0.02):
 
     # 마커와 컬러맵을 설정합니다.
@@ -88,3 +92,18 @@ plt.ylabel('petal width [cm]')
 plt.legend(loc = 'upper left')
 plt.tight_layout()
 plt.show()
+
+
+# visualization
+dot_data = export_graphviz(tree,
+                           filled = True,
+                           rounded= True,
+                           class_names = ['Setosa',
+                                          'Versicolor',
+                                          'Virginica'],
+                           feature_names = ['petal_length',
+                                            'petal width'],
+                           out_file = None)
+
+graph = graph_from_dot_data(dot_data)
+graph.write_png('tree.png')
