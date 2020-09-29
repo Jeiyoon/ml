@@ -1,6 +1,6 @@
 # Machine Learning
 
-## credit; this repository is based on awsome works
+## credit: this repository is based on awsome works
 
 ### Material (Il-Chul Moon, KAIST)
 1) Introduction to Artificial Intelligence and Machine Learning I
