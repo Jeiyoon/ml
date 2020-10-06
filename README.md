@@ -17,3 +17,5 @@ https://kooc.kaist.ac.kr/
 4) Naive Bayes Classifier: https://ratsgo.github.io/machine%20learning/2017/05/18/naive/ 
 4) Naive Bayes Classifier2: https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
 5) Linear Regression: https://github.com/gilbutITbook/007022/blob/master/code/ch10/ch10.ipynb
+6) Logistic Regression: 
+7) Support Vector Machine: 
