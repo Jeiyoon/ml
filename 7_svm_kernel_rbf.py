@@ -68,6 +68,8 @@ X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
 
 
+# 감마 값을 높이면 더 tight한 decision boundary (ex. gamma = 100.0)
+# overfitting 문제 야기
 svm = SVC(kernel = 'rbf', C = 1.0, random_state = 1, gamma = 0.2)
 svm.fit(X_train_std, y_train)
 
