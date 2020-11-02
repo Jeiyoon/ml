@@ -18,4 +18,5 @@ https://kooc.kaist.ac.kr/
 5) Linear Regression: https://github.com/gilbutITbook/007022/blob/master/code/ch10/ch10.ipynb
 6) Logistic Regression: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
 7) Support Vector Machine: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
-8) 
+8) Training/Testing and Regularization: 
+9) Bayesian Network: 
