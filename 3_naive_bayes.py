@@ -1,3 +1,5 @@
+# author: ratsgo
+
 from collections import defaultdict
 from pandas import read_table
 import numpy as np
