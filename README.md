@@ -23,10 +23,16 @@ https://kooc.kaist.ac.kr/
 4) Logistic Regression: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
 5) Support Vector Machine: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
 6) Training/Testing and Regularization: https://github.com/Jeiyoon/007022/blob/master/code/ch06/ch06.ipynb 
+
+---
+
 7) Bayesian Network: https://github.com/pgmpy/pgmpy_notebook/blob/master/notebooks/9.%20Learning%20Bayesian%20Networks%20from%20Data.ipynb
 8) K-Means Clustering and Gaussian Mixture Model: TBA
 9) Hidden Markov Model: TBA
 10) Sampling Based Inference: TBA
+
+---
+
 11) Dirichlet Process: TBA 
 12) Gaussian Process: TBA
 13) Variational Inference: TBA
