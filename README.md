@@ -33,7 +33,7 @@ https://kooc.kaist.ac.kr/
 10) Sampling Based Inference: TBA
 
 ---
-
+### Code (Artificial Intelligence and Machine Learning (Advanced))
 11) Dirichlet Process: TBA 
 12) Gaussian Process: TBA
 13) Variational Inference: TBA
