@@ -1,8 +1,8 @@
 # Machine Learning
 
-## About Me: (https://jeiyoon.github.io/)[https://jeiyoon.github.io/]
+## About Me: https://jeiyoon.github.io/
 
-## Posts: (TBA)[https://jeiyoon.github.io/k4ke/]
+## Posts: [TBA](https://jeiyoon.github.io/k4ke/)
 
 ## Credit: this repository is based on awsome works
 
