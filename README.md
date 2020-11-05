@@ -17,24 +17,24 @@ https://kooc.kaist.ac.kr/
 
 ### Code (Introduction to Artificial Intelligence and Machine Learning I)
 1) MLE: https://zhiyzuo.github.io/MLE-vs-MAP/
-1) MAP: https://zhiyzuo.github.io/MLE-vs-MAP/
-2) Decision Tree: https://github.com/gilbutITbook/007022/blob/master/code/ch03/ch03.ipynb
-3) Naive Bayes Classifier: https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
-4) Linear Regression: https://github.com/gilbutITbook/007022/blob/master/code/ch10/ch10.ipynb
-4) Logistic Regression: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
-5) Support Vector Machine: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
-6) Training/Testing and Regularization: https://github.com/Jeiyoon/007022/blob/master/code/ch06/ch06.ipynb 
+2) MAP: https://zhiyzuo.github.io/MLE-vs-MAP/
+3) Decision Tree: https://github.com/gilbutITbook/007022/blob/master/code/ch03/ch03.ipynb
+4) Naive Bayes Classifier: https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
+5) Linear Regression: https://github.com/gilbutITbook/007022/blob/master/code/ch10/ch10.ipynb
+6) Logistic Regression: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
+7) Support Vector Machine: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
+8) Training/Testing and Regularization: https://github.com/Jeiyoon/007022/blob/master/code/ch06/ch06.ipynb 
 
 ---
 ### Code (Introduction to Artificial Intelligence and Machine Learning II)
-7) Bayesian Network: https://github.com/pgmpy/pgmpy_notebook/blob/master/notebooks/9.%20Learning%20Bayesian%20Networks%20from%20Data.ipynb
-8) K-Means Clustering and Gaussian Mixture Model: TBA
-9) Hidden Markov Model: TBA
-10) Sampling Based Inference: TBA
+1) Bayesian Network: https://github.com/pgmpy/pgmpy_notebook/blob/master/notebooks/9.%20Learning%20Bayesian%20Networks%20from%20Data.ipynb
+2) K-Means Clustering and Gaussian Mixture Model: TBA
+3) Hidden Markov Model: TBA
+4) Sampling Based Inference: TBA
 
 ---
 ### Code (Artificial Intelligence and Machine Learning (Advanced))
-11) Dirichlet Process: TBA 
-12) Gaussian Process: TBA
-13) Variational Inference: TBA
-14) Artificial Neural Network: TBA
+1) Dirichlet Process: TBA 
+2) Gaussian Process: TBA
+3) Variational Inference: TBA
+4) Artificial Neural Network: TBA
