@@ -12,10 +12,12 @@ https://kooc.kaist.ac.kr/
 
 ### Code
 1) MLE: https://zhiyzuo.github.io/MLE-vs-MAP/
+   
    MAP: https://zhiyzuo.github.io/MLE-vs-MAP/
 2) Decision Tree: https://github.com/gilbutITbook/007022/blob/master/code/ch03/ch03.ipynb
 3) Naive Bayes Classifier: https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
 4) Linear Regression: https://github.com/gilbutITbook/007022/blob/master/code/ch10/ch10.ipynb
+   
    Logistic Regression: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
 5) Support Vector Machine: https://github.com/Jeiyoon/007022/blob/master/code/ch03/ch03.ipynb
 6) Training/Testing and Regularization: 
