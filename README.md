@@ -8,6 +8,8 @@
 
 ## Credit: this repository is based on awsome works
 
+---
+
 ### Material (Il-Chul Moon, KAIST)
 1) Introduction to Artificial Intelligence and Machine Learning I
 2) Introduction to Artificial Intelligence and Machine Learning II
