@@ -16,9 +16,6 @@ https://kooc.kaist.ac.kr/
 ---
 
 ### Code (Introduction to Artificial Intelligence and Machine Learning I)
-
----
-
 1) MLE: https://zhiyzuo.github.io/MLE-vs-MAP/
 1) MAP: https://zhiyzuo.github.io/MLE-vs-MAP/
 2) Decision Tree: https://github.com/gilbutITbook/007022/blob/master/code/ch03/ch03.ipynb
