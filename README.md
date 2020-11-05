@@ -1,8 +1,10 @@
 # Machine Learning
 
-## posts: (TBA)[https://jeiyoon.github.io/k4ke/]
+## About Me: (https://jeiyoon.github.io/)[https://jeiyoon.github.io/]
 
-## credit: this repository is based on awsome works
+## Posts: (TBA)[https://jeiyoon.github.io/k4ke/]
+
+## Credit: this repository is based on awsome works
 
 ### Material (Il-Chul Moon, KAIST)
 1) Introduction to Artificial Intelligence and Machine Learning I
