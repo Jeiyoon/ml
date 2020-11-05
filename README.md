@@ -1,8 +1,10 @@
-# Machine Learning (latest update: 11.05.2020)
+# Machine Learning
 
 ## About Me: https://jeiyoon.github.io/
 
 ## Posts: [TBA](https://jeiyoon.github.io/k4ke/)
+
+## Latest Update: 11.05.2020
 
 ## Credit: this repository is based on awsome works
 
